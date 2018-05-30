@@ -1,0 +1,32 @@
+url	grantee	amount	funding_type	term	notes
+http://www.thesff.com/water-and-sanitation/enterprises-in-safe-water/evidence-action/	Evidence Action	$750,000	grant funding	2017 to 2018	
+http://www.thesff.com/water-and-sanitation/enterprises-in-safe-water/safe-water-network/	Safe Water Network	$1,750,000	grant funding	2014 to 2018	
+http://www.thesff.com/water-and-sanitation/enterprises-in-safe-water/splash/	Splash	$328,000	grant funding	2014 to 2018	
+http://www.thesff.com/water-and-sanitation/enterprises-in-safe-water/spring-health/	Spring Health	$250,000	equity investment		
+http://www.thesff.com/water-and-sanitation/enterprises-in-safe-water/1001fontaines/	1001fontaines	$610,000	grant funding	2016 to 2018	
+http://www.thesff.com/jibu/	Jibu	$1,000,000	equity investment		Support on marketing and sales
+http://www.thesff.com/water-and-sanitation/urban-sanitation-services/sanergy/	Sanergy	$2,000,000	grant funding	2016 to 2019	
+http://www.thesff.com/water-and-sanitation/urban-sanitation-services/ssg/	Sanitation Solutions Group	$300,000	investment		Additional support on marketing, financial management, and management information
+http://www.thesff.com/water-and-sanitation/waste-to-resource/safi-sana/	Safi Sana	€550,000	grant and investment	to 2020	Additional support on fundraising
+http://www.thesff.com/water-and-sanitation/waste-to-resource/dsi/	Delvic Sanitation Initiatives	$100,000	grant funding	2017 to 2018	
+http://www.thesff.com/water-and-sanitation/rural-sanitation-in-cambodia/ide/	iDE	$3,000,000	grant funding	2014 to 2018	
+http://www.thesff.com/water-and-sanitation/rural-sanitation-in-cambodia/snv/	SNV	€940,000	grant funding	2015 to 2018	
+http://www.thesff.com/water-and-sanitation/rural-sanitation-in-cambodia/watershed/	WaterSHED	$1,800,000	grant funding	2015 to 2018	
+http://www.thesff.com/mental-health/star-wards/	Star Wards	£20,000	Funding	2017 to 2019	
+http://www.thesff.com/mental-health/rethink/	Rethink Mental Illness	£336,813	Funding	2018 to 2021	
+http://www.thesff.com/mental-health/national-mind/	National Mind	£210,000	Funding	2016 to 2019	
+http://www.thesff.com/mental-health/birmingham-mind/	Birmingham Mind	£240,000	Funding	2016 to 2019	
+http://www.thesff.com/mental-health/oxfordshire-mind/	Oxfordshire Mind	£220,000	Funding	2015 to 2018	
+http://www.thesff.com/mental-health/samaritans/	Samaritans	£180,000	Funding	2016 to 2019	
+http://www.thesff.com/mental-health/hillside-clubhouse/	Hillside Clubhouse	£330,000	Funding	2017 to 2020	
+http://www.thesff.com/mental-health/mosaic-clubhouse/	Mosaic Clubhouse	£402,000	Funding	2017 to 2020	
+http://www.thesff.com/mental-health/royal-foundation/	Royal Foundation	£200,000	Funding	2017 to 2019	
+http://www.thesff.com/disadvantaged-youth/the-education-endowment-foundation/	The Education Endowment Foundation (EEF)	£50,000	Funding	2014 to 2018	
+http://www.thesff.com/disadvantaged-youth/impetus-pef/	Impetus – The Private Equity Foundation	£750,000	Funding	2014 to 2019	
+http://www.thesff.com/disadvantaged-youth/longford-trust/	Longford Trust	£45,000	Funding	2017 to 2019	
+http://www.thesff.com/disadvantaged-youth/onside/	OnSide	£810,000	Funding	2015 to 2018	
+http://www.thesff.com/disadvantaged-youth/positive-futures/	Positive Futures	£150,000	Funding	2017 to 2019	
+http://www.thesff.com/disadvantaged-youth/wheels/	Wheels	£75,000	Funding	2017 to 2019	
+http://www.thesff.com/disadvantaged-youth/youth-moves/	Youth Moves	£105,000	Funding	2017 to 2019	
+http://www.thesff.com/disadvantaged-youth/reentry/	ReEntry	£90,000	Funding	2016 to 2019	
+http://www.thesff.com/disadvantaged-youth/tutor-trust/	Tutor Trust	£150,000	Funding	2016 to 2019	
