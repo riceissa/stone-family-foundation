@@ -20,7 +20,7 @@ def main():
     print("""insert into donations (donor, donee, amount, donation_date,
     donation_date_precision, donation_date_basis, cause_area, url,
     donor_cause_area_url, notes, affected_countries, affected_states,
-    affected_cities, affected_regions) values""")
+    affected_cities, affected_regions, amount_original_currency, original_currency, currency_conversion_date, currency_conversion_basis) values""")
 
     first = True
 

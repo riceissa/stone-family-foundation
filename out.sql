@@ -1,7 +1,7 @@
 insert into donations (donor, donee, amount, donation_date,
     donation_date_precision, donation_date_basis, cause_area, url,
     donor_cause_area_url, notes, affected_countries, affected_states,
-    affected_cities, affected_regions) values
+    affected_cities, affected_regions, amount_original_currency, original_currency, currency_conversion_date, currency_conversion_basis) values
     ('Stone Family Foundation','Evidence Action',750000,'2017-01-01','year','donation log','Water and sanitation','http://www.thesff.com/water-and-sanitation/enterprises-in-safe-water/evidence-action/','http://www.thesff.com/water-and-sanitation/',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Stone Family Foundation','Safe Water Network',1750000,'2014-01-01','year','donation log','Water and sanitation','http://www.thesff.com/water-and-sanitation/enterprises-in-safe-water/safe-water-network/','http://www.thesff.com/water-and-sanitation/',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
     ,('Stone Family Foundation','Splash',328000,'2014-01-01','year','donation log','Water and sanitation','http://www.thesff.com/water-and-sanitation/enterprises-in-safe-water/splash/','http://www.thesff.com/water-and-sanitation/',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
