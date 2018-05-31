@@ -69,6 +69,14 @@ def main():
                     currency_symbol = "€"
 
                 currency_conversion_date = donation_date
+                # Safi Sana requires a currency conversion but doesn't have a
+                # start date for its term. I'm taking November 2016 from the
+                # URL of
+                # http://thesff.com/system/wp-content/uploads/2016/11/Safi-Sana-Brochure-2pager.pdf
+                # which I found on the Safi Sana page
+                # (http://www.thesff.com/water-and-sanitation/waste-to-resource/safi-sana/).
+                if grantee == "Safi Sana":
+                    currency_conversion_date = "2016-11-15"
                 if not currency_conversion_date:
                     raise ValueError(("conversion date is not set", grantee))
                 r = requests.get("https://api.fixer.io/{}?base={}"
@@ -82,7 +90,7 @@ def main():
             print(("    " if first else "    ,") + "(" + ",".join([
                 mysql_quote("Stone Family Foundation"),  # donor
                 mysql_quote(grantee),  # donee
-                amount,  # amount
+                str(amount),  # amount
                 mysql_quote(donation_date),  # donation_date
                 mysql_quote(donation_date_precision),  # donation_date_precision
                 mysql_quote("donation log"),  # donation_date_basis
